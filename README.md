@@ -1,2 +1,2 @@
-# C-C-Project
+# C-Project
 Mini Bank Application Using C/C++ 
