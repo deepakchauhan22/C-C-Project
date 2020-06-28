@@ -14,17 +14,25 @@
 ### Functional Diagram 
 
 
-![Architecture](https://raw.githubusercontent.com/deepakchauhan22/C-CPP-MiniBankProject/master/images/Functional-Diagram.png)
+   ![Architecture](https://raw.githubusercontent.com/deepakchauhan22/C-CPP-MiniBankProject/master/images/Functional-Diagram.png)
 
 
 ### Login Screens 
-          * Manager   
-           ![Architecture](https://raw.githubusercontent.com/deepakchauhan22/C-CPP-MiniBankProject/master/loginscreens/manager.png)
-          * Staff
-             ![Architecture](https://raw.githubusercontent.com/deepakchauhan22/C-CPP-MiniBankProject/master/loginscreens/manager.png)
-          * Customer
-             ![Architecture](https://raw.githubusercontent.com/deepakchauhan22/C-CPP-MiniBankProject/master/loginscreens/Customer.png)
-          * Working
-              ![Architecture](https://raw.githubusercontent.com/deepakchauhan22/C-CPP-MiniBankProject/master/loginscreens/Customer.png)
-              ![Architecture](https://raw.githubusercontent.com/deepakchauhan22/C-CPP-MiniBankProject/master/loginscreens/Customer.png)
-              ![Architecture](https://raw.githubusercontent.com/deepakchauhan22/C-CPP-MiniBankProject/master/loginscreens/Customer.png)
+     
+ #### Manager
+ 
+   ![Architecture](https://raw.githubusercontent.com/deepakchauhan22/C-CPP-MiniBankProject/master/login-screens/manager.png)
+ 
+ #### Staff
+ 
+   ![Architecture](https://raw.githubusercontent.com/deepakchauhan22/C-CPP-MiniBankProject/master/login-screens/Staff.png)
+   
+ #### Customer
+ 
+   ![Architecture](https://raw.githubusercontent.com/deepakchauhan22/C-CPP-MiniBankProject/master/login-screens/customer.png)
+   
+ #### Working
+ 
+   ![Architecture](https://raw.githubusercontent.com/deepakchauhan22/C-CPP-MiniBankProject/master/login-screens/account-Balance.png)
+   ![Architecture](https://raw.githubusercontent.com/deepakchauhan22/C-CPP-MiniBankProject/master/login-screens/customer-Details.png)
+   ![Architecture](https://raw.githubusercontent.com/deepakchauhan22/C-CPP-MiniBankProject/master/login-screens/detail-Update.png)
