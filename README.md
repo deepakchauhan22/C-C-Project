@@ -10,3 +10,12 @@ E2E Architecture
 
 ![Architecture](https://raw.githubusercontent.com/deepakchauhan22/C-CPP-MiniBankProject/master/images/E2E-Architecture.png)
 
+Functional Diagram
+
+
+![Architecture](https://raw.githubusercontent.com/deepakchauhan22/C-CPP-MiniBankProject/master/images/Functional-Diagram.png)
+
+
+Login Screens:
+
+
