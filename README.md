@@ -36,3 +36,9 @@
    ![Architecture](https://raw.githubusercontent.com/deepakchauhan22/C-CPP-MiniBankProject/master/login-screens/account-Balance.png)
    ![Architecture](https://raw.githubusercontent.com/deepakchauhan22/C-CPP-MiniBankProject/master/login-screens/customer-Details.png)
    ![Architecture](https://raw.githubusercontent.com/deepakchauhan22/C-CPP-MiniBankProject/master/login-screens/detail-Update.png)
+   
+   
+* __Go on Fork the project,make your own changes.__  
+
+* Follow me: [Deepak Chauhan](https://github.com/deepakchauhan22)
+
