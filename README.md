@@ -7,3 +7,5 @@ The Objective of developing this Internet banking System primarily based on C is
 
 
 E2E Architecture
+
+![Architecture](https://github.com/[deechauhan22]/[C-CPP-MiniBankProject]/blob/[master]/images/E2E-Architecture.png?raw=true)
