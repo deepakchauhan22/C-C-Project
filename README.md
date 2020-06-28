@@ -17,6 +17,14 @@
 ![Architecture](https://raw.githubusercontent.com/deepakchauhan22/C-CPP-MiniBankProject/master/images/Functional-Diagram.png)
 
 
-### Login Screens: 
-
-
+### Login Screens 
+          * Manager   
+           ![Architecture](https://raw.githubusercontent.com/deepakchauhan22/C-CPP-MiniBankProject/master/loginscreens/manager.png)
+          * Staff
+             ![Architecture](https://raw.githubusercontent.com/deepakchauhan22/C-CPP-MiniBankProject/master/loginscreens/manager.png)
+          * Customer
+             ![Architecture](https://raw.githubusercontent.com/deepakchauhan22/C-CPP-MiniBankProject/master/loginscreens/Customer.png)
+          * Working
+              ![Architecture](https://raw.githubusercontent.com/deepakchauhan22/C-CPP-MiniBankProject/master/loginscreens/Customer.png)
+              ![Architecture](https://raw.githubusercontent.com/deepakchauhan22/C-CPP-MiniBankProject/master/loginscreens/Customer.png)
+              ![Architecture](https://raw.githubusercontent.com/deepakchauhan22/C-CPP-MiniBankProject/master/loginscreens/Customer.png)
